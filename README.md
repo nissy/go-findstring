@@ -1,4 +1,5 @@
 # go-findstring
+Output string used in package of Go
 
 ## Setup
 ```
